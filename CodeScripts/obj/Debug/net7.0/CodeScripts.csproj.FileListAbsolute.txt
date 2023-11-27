@@ -1,0 +1,14 @@
+C:\Work\grokking\CodeScripts\bin\Debug\net7.0\CodeScripts.exe
+C:\Work\grokking\CodeScripts\bin\Debug\net7.0\CodeScripts.deps.json
+C:\Work\grokking\CodeScripts\bin\Debug\net7.0\CodeScripts.runtimeconfig.json
+C:\Work\grokking\CodeScripts\bin\Debug\net7.0\CodeScripts.dll
+C:\Work\grokking\CodeScripts\bin\Debug\net7.0\CodeScripts.pdb
+C:\Work\grokking\CodeScripts\obj\Debug\net7.0\CodeScripts.GeneratedMSBuildEditorConfig.editorconfig
+C:\Work\grokking\CodeScripts\obj\Debug\net7.0\CodeScripts.AssemblyInfoInputs.cache
+C:\Work\grokking\CodeScripts\obj\Debug\net7.0\CodeScripts.AssemblyInfo.cs
+C:\Work\grokking\CodeScripts\obj\Debug\net7.0\CodeScripts.csproj.CoreCompileInputs.cache
+C:\Work\grokking\CodeScripts\obj\Debug\net7.0\CodeScripts.dll
+C:\Work\grokking\CodeScripts\obj\Debug\net7.0\refint\CodeScripts.dll
+C:\Work\grokking\CodeScripts\obj\Debug\net7.0\CodeScripts.pdb
+C:\Work\grokking\CodeScripts\obj\Debug\net7.0\CodeScripts.genruntimeconfig.cache
+C:\Work\grokking\CodeScripts\obj\Debug\net7.0\ref\CodeScripts.dll
