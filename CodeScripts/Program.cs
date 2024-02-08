@@ -1,4 +1,5 @@
-﻿using System.Runtime.CompilerServices;
+﻿using CodeScripts;
+using System.Runtime.CompilerServices;
 
 internal class Program
 {
@@ -46,8 +47,11 @@ internal class Program
         ////}
 
         //Squaring a sorted array
-        int[] arr = new int[] { -3, -1, 0, 1, 2 };
-        int[] result = squareSorted(arr);
+        //int[] arr = new int[] { -3, -1, 0, 1, 2 };
+        //int[] result = squareSorted(arr);
+
+        var result = UniqueTriplets.findUniqueTriplets(new int[] { -3, 0, 1, 2, -1, 1, -2 });
+        Console.WriteLine(result);
     }
 
     private static double[] contiguous(int[] arr, int k)

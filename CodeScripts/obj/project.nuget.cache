@@ -1,13 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "JEW0iDX5WlGLBS2G4BlYi03NVhZH/T74FvDA4VEWYB0Bjbb38xw8vxwYCDzds4F4bpa+KjSlN78e0on/h+qb8g==",
+  "dgSpecHash": "aqKeX3mM7943vuMRl8X51E40YYPnypfqs1FzpbyCG/55guJu5Iyk+ug2pVo5kPhtZOpjyC7jX5FihhX6A7Tawg==",
   "success": true,
   "projectFilePath": "C:\\Work\\GrokkingProject\\CodeScripts\\CodeScripts.csproj",
-  "expectedPackageFiles": [
-    "C:\\Users\\v-dairungu\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\7.0.15\\microsoft.windowsdesktop.app.ref.7.0.15.nupkg.sha512",
-    "C:\\Users\\v-dairungu\\.nuget\\packages\\microsoft.netcore.app.ref\\7.0.15\\microsoft.netcore.app.ref.7.0.15.nupkg.sha512",
-    "C:\\Users\\v-dairungu\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\7.0.15\\microsoft.aspnetcore.app.ref.7.0.15.nupkg.sha512",
-    "C:\\Users\\v-dairungu\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\7.0.15\\microsoft.netcore.app.host.win-x64.7.0.15.nupkg.sha512"
-  ],
+  "expectedPackageFiles": [],
   "logs": []
 }
