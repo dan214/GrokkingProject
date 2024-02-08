@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("CodeScripts")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f775d67efbe33223d9ddce6c654614236c9520f5")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2053942a6b61d908bc8dda08c6930cc0521bb357")]
 [assembly: System.Reflection.AssemblyProductAttribute("CodeScripts")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CodeScripts")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
